@@ -1,4 +1,4 @@
-## About Me 🧑‍🎨:
+## About Me 🧑‍🎨
 I'm a passionate full stack web developer with expertise in building interactive and user-friendly web applications. I love turning ideas into reality through clean code and elegant design. With a strong foundation in both front-end and back-end development, I enjoy working on challenging projects that push my skills to new heights.
 
 ## Skills :bulb:
@@ -8,7 +8,7 @@ I'm a passionate full stack web developer with expertise in building interactive
 - Version Control: Git
 - Deployment: Docker, Heroku, AWS, Google Cloud, Microsoft Azure 
 
-## Get in Touch 🤙:
+## Get in Touch 🤙
 - LinkedIn: [rohit--kashyap](https://www.linkedin.com/in/rohit--kashyap/)
 - Email: rohitdevofficial@gmail.com
 
