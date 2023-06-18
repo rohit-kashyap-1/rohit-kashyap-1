@@ -9,7 +9,7 @@ I'm a passionate full stack web developer with expertise in building interactive
 - Deployment: Docker, Heroku, AWS, Google Cloud, Microsoft Azure 
 
 ## Get in Touch :link:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohit--kashyap/)
+- LinkedIn: [rohit--kashyap](https://www.linkedin.com/in/rohit--kashyap/)
 - Email: rohitdevofficial@gmail.com
 
 ## Let's Connect :coffee:
