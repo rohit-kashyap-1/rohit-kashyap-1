@@ -8,7 +8,7 @@ I'm a passionate full stack web developer with expertise in building interactive
 - Version Control: Git
 - Deployment: Docker, Heroku, AWS, Google Cloud, Microsoft Azure 
 
-## Get in Touch 🤙
+## 🤙 Get in Touch 
 - LinkedIn: [rohit--kashyap](https://www.linkedin.com/in/rohit--kashyap/)
 - Email: rohitdevofficial@gmail.com
 
