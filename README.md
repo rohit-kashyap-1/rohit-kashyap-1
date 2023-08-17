@@ -1,4 +1,3 @@
-
 ## :wave: About Me 
 I'm a passionate full stack web developer with expertise in building interactive and user-friendly web applications. I love turning ideas into reality through clean code and elegant design. With a strong foundation in both front-end and back-end development, I enjoy working on challenging projects that push my skills to new heights.
 
